@@ -1,9 +1,0 @@
-{
-    "version": "https://jsonfeed.org/version/1",
-    "title": "Blogs",
-    "home_page_url": "https://sajiddev.is-a.dev",
-    "feed_url": "https://sajiddev.is-a.dev/rss.json",
-    "description": "Hey! I am Sajid, and its my personal blog where I share my learnings, experiences, and thoughts on different topics. I mostly talk about tech, but I don't have any specific niche.  I write about whatever I find interesting. I hope you will find my blogs helpful. Happy reading!",
-    "icon": "https://sajiddev.is-a.dev/logo.png",
-    "items": []
-}
