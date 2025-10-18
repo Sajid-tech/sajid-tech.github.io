@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://sajiddev.is-a.dev</id>
+    <title>Blogs</title>
+    <updated>2025-03-15T14:11:35.191Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://sajiddev.is-a.dev"/>
+    <link rel="self" href="https://sajiddev.is-a.dev/atom.xml"/>
+    <subtitle>Hey! I am Sajid, and its my personal blog where I share my learnings, experiences, and thoughts on different topics. I mostly talk about tech, but I don't have any specific niche.  I write about whatever I find interesting. I hope you will find my blogs helpful. Happy reading!</subtitle>
+    <logo>https://sajiddev.is-a.dev/logo.png</logo>
+    <icon>https://sajiddev.is-a.dev/favicon.png</icon>
+    <rights>All rights reserved 2025, Sajid</rights>
+</feed>
